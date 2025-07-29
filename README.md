@@ -9,7 +9,7 @@
 
 **Dashboard completo para acompanhar criptomoedas em tempo real construída com Next.js 15 e CoinGecko API**
 
-[🌐 **Demo Live**](https://link) | [📚 **Documentação**](#-documentação) | [🧪 **Testes**](#-testes)
+[🌐 **Demo Live**](https://crypto-dash-mauve.vercel.app) | [📚 **Documentação**](#-documentação) | [🧪 **Testes**](#-testes)
 
 </div>
 
@@ -862,6 +862,6 @@ A licença MIT é uma licença de software livre permissiva que permite:
 
 **⭐ Se este projeto te ajudou, considere dar uma estrela!**
 
-[🌐 **Ver Demo**](https://link) | [📧 **Contato**](mailto:allisson.lima.dev@gmail.com)
+[🌐 **Ver Demo**](https://crypto-dash-mauve.vercel.app) | [📧 **Contato**](mailto:allisson.lima.dev@gmail.com)
 
 </div>
